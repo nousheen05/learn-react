@@ -1,0 +1,16 @@
+How to create a react app?
+A: use "npx create-react-app my-app" command, it creates a react app(folder with name my-app and contains boiler plate).
+To start on local host. We use command - "npm start" inside that my-app
+
+
+#creating our first react component
+1) As our starting file is index.js, we will start from there
+
+
+# JSX Rules - as we return jsx for a component function
+1) We should return a single HTML element
+2) The element can be div / article / section or a react fragment
+Tip: <React.fragment><React.fragment/> or <></>
+3) use camelCase for HTML attributes ex: onClick
+4) To define class for a html element use className instead of class
+5) formatting - after return statement recommended to use ()

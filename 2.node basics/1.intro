@@ -1,0 +1,6 @@
+1) Install nodejs on desktop from official website
+2) check node version from terminal using "node --version"
+3) In the current working directory use "npm init", which initializes a package.json file that contains all the 
+information about the app
+3) npm - node package manager, contains bundles of packages which we can install into our dev environment
+4) ex: npm install bootstrap
